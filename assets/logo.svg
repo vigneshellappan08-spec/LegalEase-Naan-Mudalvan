@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="320"
+     height="320"
+     viewBox="0 0 320 320">
+
+    <rect
+        width="320"
+        height="320"
+        rx="64"
+        fill="#111827"/>
+
+    <path
+        d="M160 58V262"
+        stroke="#f59e0b"
+        stroke-width="12"
+        stroke-linecap="round"/>
+
+    <path
+        d="M94 96H226"
+        stroke="#f59e0b"
+        stroke-width="12"
+        stroke-linecap="round"/>
+
+    <path
+        d="M82 96L44 166H120L82 96Z"
+        fill="none"
+        stroke="#f59e0b"
+        stroke-width="12"
+        stroke-linejoin="round"/>
+
+    <path
+        d="M238 96L200 166H276L238 96Z"
+        fill="none"
+        stroke="#f59e0b"
+        stroke-width="12"
+        stroke-linejoin="round"/>
+
+    <path
+        d="M62 181C62 206 80 224 106 224C132 224 150 206 150 181"
+        fill="none"
+        stroke="#f59e0b"
+        stroke-width="12"
+        stroke-linecap="round"/>
+
+    <path
+        d="M170 181C170 206 188 224 214 224C240 224 258 206 258 181"
+        fill="none"
+        stroke="#f59e0b"
+        stroke-width="12"
+        stroke-linecap="round"/>
+
+    <path
+        d="M116 262H204"
+        stroke="#f59e0b"
+        stroke-width="12"
+        stroke-linecap="round"/>
+
+</svg>
